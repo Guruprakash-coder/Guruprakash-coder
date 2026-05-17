@@ -78,7 +78,7 @@ I am an **Aspiring Software Developer** and Computer Science undergraduate at An
 
 ## 🤝 Connect with Me
 - 📧 Email: [guruprakash6999@gmail.com](mailto:guruprakash6999@gmail.com)
-- 💼 LinkedIn: [Your LinkedIn Profile Link Here](https://www.linkedin.com/in/guruprakash-s-465078333)
+- 💼 LinkedIn: [Linkedin Profile](https://www.linkedin.com/in/guruprakash-s-465078333)
 - 💻 GitHub: [github.com/Guruprakash-coder](https://github.com/Guruprakash-coder)
 
 "Striving to build elegant, maintainable solutions—one compiled line of code at a time." ✨
