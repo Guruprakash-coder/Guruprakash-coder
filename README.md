@@ -1,8 +1,6 @@
 # Hi there, I'm Guruprakash S! 👋 
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Guruprakash-coder&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+
 
 I am an **Aspiring Software Developer** and Computer Science undergraduate at Annamalai University (CGPA: 8.30). I have a strong passion for problem-solving and hands-on experience building full-stack web and mobile applications. I specialize in developing scalable, real-world solutions using clean architecture, rigorous type-safety, and modern tech stacks.
 
