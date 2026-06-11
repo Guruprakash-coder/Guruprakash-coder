@@ -6,7 +6,7 @@ I am an **Aspiring Software Developer** and Computer Science undergraduate at An
 
 - 🎓 Pursuing **B.E. in Computer Science** (2023 - 2027)
 - 💻 Deeply interested in **Software Engineering, Type-Safe Full-Stack Development, and Systems Architecture**
-- 🚀 Solved **200+ problems** on competitive coding platforms
+- 🚀 Solved **250+ problems** on competitive coding platforms
 - 🧠 Active explorer of **Prompt Engineering** and AI-assisted engineering workflows
 
 ---
