@@ -187,7 +187,7 @@ Comprehensive academic tenure heavily focused on practical software engineering,
 
 | Recognition | Details |
 | :---: | :--- |
-| **Algorithmic Problem Solving** | Demonstrated strong problem-solving skills by successfully solving 200+ algorithm and data structure problems on competitive coding platforms. |
+| **Algorithmic Problem Solving** | Demonstrated strong problem-solving skills by successfully solving 250+ algorithm and data structure problems on competitive coding platforms. |
 | **Academic Excellence** | Maintained an outstanding CGPA of 8.30 throughout the rigorous B.E. Computer Science engineering program. |
 
 </div>
@@ -213,10 +213,9 @@ Comprehensive academic tenure heavily focused on practical software engineering,
 ## 💻 Coding Profiles Section
 
 <div align="center">
-  <img src="https://img.shields.io/badge/LeetCode-200+_Solved-8A2BE2?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-250+_Solved-8A2BE2?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-Active_Solver-4B0082?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
   <img src="https://img.shields.io/badge/HackerRank-5_Star_Rank-9400D3?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  <img src="https://img.shields.io/badge/CodeChef-Competitive-8A2BE2?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
 </div>
 
 ---
